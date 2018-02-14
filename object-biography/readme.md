@@ -1,5 +1,2 @@
 # Object Biography
-
-In this readme file, you explain the context and background for your object. Think of this as being rather like a wikipedia page giving the basic particulars of the object/site/building/whatever that you have modeled. It should be complete enough that I understand why your object matters, and could find more information if I want.
-
-Use Harvard author-date system for citations, as that works better with plain text than trying to figure out footnotes (footnotes are a hangover from an industrial model of text preparation).
+The object I used for my 3D model is a hand-made, horse head shaped, vintage onyx bookend that my dad brought back from a trip to Mexico and gave to me. It has been (and still is) a valuable objecct for me as it not only serves as a bookend but also as a decoration and a souvenir. For me, it is a precious object because reading is something I highly value, and in-between bookends, it is taken for granted but there is alot of information and knowledge to acquire. Symbolically, those bookends carry all of this information. I also value the object because of where it comes from and because it was carved by hand, which makes all the difference from a bookend that was bought at any store downtown.
