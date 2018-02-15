@@ -1,7 +1,5 @@
 # bibliography
+The vintage onyx horse head shaped bookend was given to me by my father, it is supporting books on my bookshelf. It orinigates from Mexico City, where it was fully carved by hand. 
 
-Please include all primary and secondary sources you used for creating your model and its paradata. If the object is in a museum, for instance, you'd include its catalogue number and so on. Otherwise, ownership or location, that kind of thing.
-
-Include any materials that you've used - including tutorials, blog posts, videos, whatever. If you used it, consulted it, or it caused you to think about what you were doing, cite it.
-
-use harvard author-date style.
+1) Clark, B. 2017. "How to Crop the Background Out of an Image in Paint 3D"
+2) docs.gimp.org "Seperating an object from its background"
